@@ -12,6 +12,7 @@ public class Assets implements Disposable {
         manager.load("button_new-game.jpg", Texture.class);
         manager.load("button_exit.jpg", Texture.class);
         manager.load("car.png", Texture.class);
+        //System.outprinsadad
     }
 
     @Override
